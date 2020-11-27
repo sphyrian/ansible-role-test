@@ -1,0 +1,6 @@
+---
+# tasks file for role-test
+
+- name: Tâche I
+  debug:
+    msg: Rôle de test
